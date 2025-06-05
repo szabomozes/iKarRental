@@ -33,3 +33,6 @@ Az oldal lehetővé teszi a látogatók számára, hogy böngésszék a kölcsö
 - PHP 
 
 ---
+
+🎥 Működés közben (részletek)
+
