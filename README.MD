@@ -9,11 +9,6 @@
 
 ---
 
-## Játék megtekintése
-
-Az elkészült játékot itt tudod megnézni:  
-👉 [https://szabomozes.github.io/.../](https://szabomozes.github.io/.../)
-
 ## Projekt leírása
 
 A feladat egy autókölcsönző weboldal készítése, amelyben az adminisztrátor feltöltheti az elérhető autókat, a felhasználók regisztrálhatnak, bejelentkezhetnek, megtekinthetik az autókat, majd bejelentkezés után lefoglalhatják őket időintervallumokra. Az admin további jogosultságokkal rendelkezik az autók és foglalások kezelésére.
