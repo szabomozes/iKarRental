@@ -1,0 +1,163 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+button {
+    background-color: #1664b7;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#page-title {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.filter-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+    padding: 5px;
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 0px;
+    margin: 20px auto;
+    max-width: 1200px;
+}
+
+.filter-item {
+    display: inline-block;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.filter-item input,
+.filter-item select {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 150px;
+    font-size: 1em;
+}
+
+.filter-item label {
+    margin-top: 5px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.filter-item button {
+    margin-top: 10px;
+}
+
+.car-card-link {
+    text-decoration: none;
+    color: inherit;
+
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+}
+
+.car-card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    margin: 20px;
+    max-width: 300px;
+    text-align: center;
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: inline-block;
+    width: 300px;
+}
+
+.car-card:hover {
+    transform: scale(1.02);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#car-image {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.car-title {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.car-price {
+    font-size: 1.1em;
+    color: #007BFF;
+    font-weight: bold;
+}
+
+.reserve-button {
+    margin-top: 10px;
+    background-color: #28a745;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+    font-size: 1em;
+}
+
+.reserve-button:hover {
+    background-color: #218838;
+}
+
+.admin-actions {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10px;
+}
+
+#delete-car {
+    background-color: #dc3545;
+}
+
+#delete-car:hover {
+    background-color: #c82333;
+}
+
+#editing-car {
+    background-color: #381c19;
+}
+
+#editing-car:hover {
+    background-color: #e0a800;
+}
+
+@media (max-width: 768px) {
+    .filter-box {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .filter-item input,
+    .filter-item select {
+        width: 100%;
+    }
+
+    .car-card {
+        margin: 10px auto;
+    }
+}

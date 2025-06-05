@@ -1,0 +1,94 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #222;
+    color: white;
+    height: 60px;
+}
+
+#logo-text {
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #444;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    transition: background-color 0.3s ease;
+}
+
+#logo-text:hover {
+    background-color: #555;
+}
+
+.profile-info {
+    display: flex;
+    align-items: center;
+}
+
+#profile-pic {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#user-name {
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#logout-button,
+#login-button,
+#register-button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #555;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+#logout-button:hover,
+#login-button:hover,
+#register-button:hover {
+    background-color: #444;
+}
+
+button {
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        height: auto;
+        padding: 10px;
+    }
+
+    .profile-info {
+        margin-top: 10px;
+        width: 100%;
+        justify-content: space-between;
+    }
+
+    #logo-text {
+        margin-bottom: 10px;
+    }
+
+    #logout-button,
+    #login-button,
+    #register-button {
+        width: 100%;
+        text-align: center;
+        margin-left: 0;
+        margin-bottom: 5px;
+    }
+}

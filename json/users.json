@@ -1,0 +1,29 @@
+{
+    "677ff9aef18c8": {
+        "fullname": "Admin",
+        "email": "admin@ikarrental.hu",
+        "password": "admin",
+        "id": "677ff9aef18c8",
+        "profile_pic": "https:\/\/images.nightcafe.studio\/users\/ZcDYVAlvjNbsAHbwNhUFxdU0rXs2\/uploads\/m7XuV1i6egth4ISiD240.jpeg?tr=w-1600,c-at_max"
+    },
+    "677ff9aef18c88": {
+        "fullname": "USER",
+        "email": "user@ikarrental.hu",
+        "password": "user",
+        "id": "677ff9aef18c88",
+        "profile_pic": "https:\/\/images.nightcafe.studio\/users\/ZcDYVAlvjNbsAHbwNhUFxdU0rXs2\/uploads\/m7XuV1i6egth4ISiD240.jpeg?tr=w-1600,c-at_max"
+    },
+    "6782ef4a5edb4": {
+        "fullname": "Kov\u00e1cs L\u00e1szl\u00f3",
+        "email": "kovacs.laszlo@gmail.com",
+        "password": "kovacs",
+        "id": "6782ef4a5edb4",
+        "profile_pic": "https:\/\/images.nightcafe.studio\/users\/ZcDYVAlvjNbsAHbwNhUFxdU0rXs2\/uploads\/m7XuV1i6egth4ISiD240.jpeg?tr=w-1600,c-at_max"
+    },
+    "6782f01fee0a4": {
+        "fullname": "Nagy P\u00e9ter",
+        "email": "nagy.peter@gmail.com",
+        "password": "nagypeter",
+        "id": "6782f01fee0a4"
+    }
+}

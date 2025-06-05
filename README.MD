@@ -1,0 +1,35 @@
+
+# 3. félév | Webprogramozás - PHP beadandó
+
+**Tantárgy:** Webprogramozás  
+**Félév:** 2024/25/1 (őszi félév)  
+**Előadó:** Dr. Horváth Győző  
+**Gyakorlatvezető:** Consuegra-Sotolongo Gábor Luis  
+
+
+---
+
+## Játék megtekintése
+
+Az elkészült játékot itt tudod megnézni:  
+👉 [https://szabomozes.github.io/.../](https://szabomozes.github.io/.../)
+
+## Projekt leírása
+
+A feladat egy autókölcsönző weboldal készítése, amelyben az adminisztrátor feltöltheti az elérhető autókat, a felhasználók regisztrálhatnak, bejelentkezhetnek, megtekinthetik az autókat, majd bejelentkezés után lefoglalhatják őket időintervallumokra. Az admin további jogosultságokkal rendelkezik az autók és foglalások kezelésére.
+
+---
+
+## Rövid összefoglaló a webalkalmazásról
+
+Az oldal lehetővé teszi a látogatók számára, hogy böngésszék a kölcsönözhető autókat, különböző szűrőkkel (váltó típus, férőhely, napi díj, elérhető időszak). Regisztrált és bejelentkezett felhasználók tudnak foglalásokat létrehozni az autókra meghatározott időintervallumokra. Az adminisztrátor pedig kezelheti az autókat (hozzáadás, szerkesztés, törlés) és a foglalásokat.
+
+---
+
+## Használt technológiák
+
+- HTML
+- CSS
+- PHP 
+
+---
