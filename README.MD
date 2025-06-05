@@ -36,3 +36,12 @@ Az oldal lehetővé teszi a látogatók számára, hogy böngésszék a kölcsö
 
 🎥 Működés közben (részletek)
 
+search
+![Image](https://github.com/user-attachments/assets/09453b0c-2766-42f6-ad76-cdae68d21d53)
+
+rent
+![Image](https://github.com/user-attachments/assets/468b0e54-9633-4659-bda5-e87ed32ab1df)
+
+admin
+![Image](https://github.com/user-attachments/assets/dd01d1f6-bb0e-4f8d-9832-20915b663aad)
+
