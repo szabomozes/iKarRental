@@ -5,7 +5,7 @@
 **Félév:** 2024/25/1 (őszi félév)  
 **Előadó:** Dr. Horváth Győző  
 **Gyakorlatvezető:** Consuegra-Sotolongo Gábor Luis  
-📅 Készült: 2025. január
+📅 **Befejezés dátuma:** 2025. január
 
 ---
 
